@@ -22,3 +22,5 @@ Parts:
 * 1x DC Connector 2.1mm J5
 * 1x GREEN PWR
 * 1x STEREOJACK X1
+
+![Photo of Simple Energy Meter](/Simple_Energy_Meter.jpg)
