@@ -1,7 +1,7 @@
 # Simple_Energy_Meter
 A simple energy meter based on ESP8266 and ADS1115 (Arduino project)
 
-Based on the work of Tisham Dhar (whatnick) https://github.com/whatnick/NodeMCU_Emon
+Based on the work of Tisham Dhar (whatnick) https://github.com/whatnick/NodeMCU_Emon and https://gist.github.com/whatnick/13e08d40ce0f9a4c7373
 
 Components:
 * 1× NodeMCU
